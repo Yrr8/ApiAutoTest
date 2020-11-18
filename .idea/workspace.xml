@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="893b4c0b-573f-4579-af12-f926b987ce40" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="learnpytest" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k27Pj3xRvwkPpSSlFowI6zvGu3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Colors" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\learnpytest\ZongHe\test_script" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\learnpytest\ZongHe\data_case" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Monitor">
+    <configuration name="Monitor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learnpytest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Monitor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="p" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learnpytest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/p.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_login2.test_login" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="learnpytest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ZongHe/test_script" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_login2.test_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_register.test_register_repeat" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="learnpytest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ZongHe/test_script" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_register.test_register_repeat&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_001.py" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="learnpytest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_001.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_login.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="learnpytest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ZongHe/test_script" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/ZongHe/test_script/test_login.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Monitor" />
+        <item itemvalue="Python.p" />
+        <item itemvalue="Python tests.pytest in test_login.py" />
+        <item itemvalue="Python tests.pytest for test_login2.test_login" />
+        <item itemvalue="Python tests.pytest for test_register.test_register_repeat" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="893b4c0b-573f-4579-af12-f926b987ce40" name="Default Changelist" comment="" />
+      <created>1604886809573</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604886809573</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="821" y="198" width="658" height="538" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1604890896750">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="821" y="198" width="658" height="538" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1600.860@0.0.1600.860" timestamp="1604890896750" />
+    <state x="538" y="231" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604990058299">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="538" y="231" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860@0.0.1600.860" timestamp="1604990058299" />
+    <state x="837" y="27" key="#pytest_in_test_001.py" timestamp="1604893696761">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="837" y="27" key="#pytest_in_test_001.py/0.0.1600.860@0.0.1600.860" timestamp="1604893696761" />
+    <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1604904563327">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1604904563327" />
+    <state width="898" height="624" key="GridCell.Tab.0.bottom" timestamp="1605605066314">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="898" height="624" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1605605066314" />
+    <state width="898" height="624" key="GridCell.Tab.0.center" timestamp="1605605066314">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="898" height="624" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1605605066314" />
+    <state width="898" height="624" key="GridCell.Tab.0.left" timestamp="1605605066313">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="898" height="624" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1605605066313" />
+    <state width="898" height="624" key="GridCell.Tab.0.right" timestamp="1605605066314">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="898" height="624" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1605605066314" />
+    <state width="1578" height="270" key="GridCell.Tab.1.bottom" timestamp="1604979786472">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1578" height="270" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1604979786472" />
+    <state width="1578" height="270" key="GridCell.Tab.1.center" timestamp="1604979786471">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1578" height="270" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1604979786471" />
+    <state width="1578" height="270" key="GridCell.Tab.1.left" timestamp="1604979786471">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1578" height="270" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1604979786471" />
+    <state width="1578" height="270" key="GridCell.Tab.1.right" timestamp="1604979786472">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1578" height="270" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1604979786472" />
+    <state x="29" y="52" key="SettingsEditor" timestamp="1604995448477">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="29" y="52" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1604995448477" />
+    <state x="480" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1605580034584">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="480" y="252" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1605580034584" />
+    <state x="612" y="255" key="export.test.results" timestamp="1604890347235">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="612" y="255" key="export.test.results/0.0.1600.860@0.0.1600.860" timestamp="1604890347235" />
+    <state x="541" y="71" key="refactoring.ChangeSignatureDialog" timestamp="1605091243515">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="541" y="71" key="refactoring.ChangeSignatureDialog/0.0.1600.860@0.0.1600.860" timestamp="1605091243515" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1604971963912">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1604971963912" />
+  </component>
+</project>

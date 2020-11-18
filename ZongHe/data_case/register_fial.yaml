@@ -1,0 +1,6 @@
+-
+    casedata: {mobilephone: '123456789', pwd: '12345'}
+    expect: {status: 0, code: '20108', data: None, msg: '密码长度必须为6~18'}
+-
+    casedata: {mobilephone: '12345678913', pwd: '123456789qwertyuiop'}
+    expect: {status: 0, code: '20108', data: None, msg: '密码长度必须为6~18'}

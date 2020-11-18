@@ -1,0 +1,6 @@
+-
+    casedata: {mobilephone: '15012345678',pwd: '123456',regname: 'tlp'}
+    expect: {status: 1, code: '10001', data: None, msg: '注册成功'}
+-
+    casedata: {mobilephone: '15323432565',pwd: '123456789abcdefghi',regname: 'bd'}
+    expect: {status: 1, code: '10001', data: None, msg: '注册成功'}
